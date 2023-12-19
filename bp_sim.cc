@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "sim_bp.h"
+#include "bp_sim.h"
 
 /*  argc holds the number of command line arguments
     argv[] holds the commands themselves
